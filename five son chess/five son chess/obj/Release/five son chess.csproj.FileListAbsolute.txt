@@ -1,0 +1,13 @@
+D:\好好学习\程序系\five son chess\five son chess\bin\Release\five son chess.exe.config
+D:\好好学习\程序系\five son chess\five son chess\bin\Release\five son chess.exe.manifest
+D:\好好学习\程序系\five son chess\five son chess\bin\Release\five son chess.application
+D:\好好学习\程序系\five son chess\five son chess\bin\Release\five son chess.exe
+D:\好好学习\程序系\five son chess\five son chess\bin\Release\five son chess.pdb
+D:\好好学习\程序系\five son chess\five son chess\obj\Release\five_son_chess.Form1.resources
+D:\好好学习\程序系\five son chess\five son chess\obj\Release\five_son_chess.load.resources
+D:\好好学习\程序系\five son chess\five son chess\obj\Release\five_son_chess.Properties.Resources.resources
+D:\好好学习\程序系\five son chess\five son chess\obj\Release\five son chess.csproj.GenerateResource.Cache
+D:\好好学习\程序系\five son chess\five son chess\obj\Release\five son chess.exe.manifest
+D:\好好学习\程序系\five son chess\five son chess\obj\Release\five son chess.application
+D:\好好学习\程序系\five son chess\five son chess\obj\Release\five son chess.exe
+D:\好好学习\程序系\five son chess\five son chess\obj\Release\five son chess.pdb
